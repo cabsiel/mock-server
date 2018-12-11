@@ -1,0 +1,6 @@
+{
+  "name": "dbTolLuz",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/db-tol-luz.json"
+}
